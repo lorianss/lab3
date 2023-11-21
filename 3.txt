@@ -1,1 +1,5 @@
-"fix in 3.txt"
+<<<<<<< HEAD
+
+
+My fix in the 3.txt
+
